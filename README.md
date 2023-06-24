@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akib-raihan-4&show_icons=true&locale=en&layout=compact" alt="akib-raihan-4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akib-raihan-4&show_icons=true&locale=en" alt="akib-raihan-4" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akib-raihan-4&" alt="akib-raihan-4" /></p>
