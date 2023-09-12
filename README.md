@@ -1,7 +1,7 @@
 
 <img align="center" alt="coding" width="100%" height= "10%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h1 align="center">HELLO WORLD 🌎, I'm Akib Raihan</h1>
-<h3 align="center">AI Trainee at ADN Diginet.</h3>
+<h3 align="center">Passionate about Full Stack Web Development and also AI engineer.</h3>
 
 
 
