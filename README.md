@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/akib-raihan04/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://instagram.com/gkassym/">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
-  </a>
   <a href="mailto:raihanakib062@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
