@@ -84,8 +84,4 @@
 <p align = "center"><img width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akib-raihan-4&show_icons=true&locale=en&layout=compact" alt="akib-raihan-4" /></p>
 
 <p align = "center">&nbsp;<img width = "50%" src="https://github-readme-stats.vercel.app/api?username=akib-raihan-4&show_icons=true&locale=en" alt="akib-raihan-4" /></p>
-<p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=Akib-Raihan-4" alt="GitHub Streak">
-  </a>
-</p>
+
